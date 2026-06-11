@@ -15,8 +15,7 @@ Un outil **léger** ⚡ et **gratuit** 🎉 qui enrichit votre presse-papiers Wi
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (pour compiler)
 
 ### Utilisation rapide
-1. **Télécharge** `MultiClip.exe` depuis [Releases](https://github.com/jerfauvet-arch/MultiClip/releases)
-2. **Lance** l'application
+1. **[⬇️ Télécharge MultiClip.exe](https://github.com/jerfauvet-arch/MultiClip/releases/latest/download/MultiClip.exe)** (dernière version)2. **Lance** l'application
 3. **Copie** autant de texte que tu veux
 4. **Appuie** sur `Ctrl + Shift + V` pour ouvrir la liste
 5. **Sélectionne** ce que tu veux coller
